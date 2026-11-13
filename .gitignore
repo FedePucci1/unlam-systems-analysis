@@ -1,0 +1,13 @@
+build/
+target/
+__pycache__/
+*.class
+*.exe
+*.o
+*.out
+*.cbp
+*.layout
+*.depend
+.vscode/
+.idea/
+.DS_Store
